@@ -89,6 +89,65 @@ The analysis was designed to answer the following questions:
 17. Which products are most popular among repeat customers?
 18. Which countries have the highest percentage of repeat customers?
 
+## Key Findings
+
+- The United Kingdom generated the majority of total revenue.
+- A small group of customers contributed a significant share of revenue.
+- Repeat customers generated a large portion of overall revenue.
+- Certain high-selling products also experienced relatively high return activity.
+- Revenue varied considerably across months, showing clear seasonal patterns.
+
+## Recommendations
+
+- Prioritize retention strategies for high-value repeat customers.
+- Investigate frequently returned products to identify quality or expectation issues.
+- Focus marketing efforts on high-revenue products and markets.
+- Use seasonal revenue patterns to guide inventory and promotional planning.
+
+## Visual Analysis
+
+### Revenue by Country
+
+The following chart highlights the countries generating the highest total revenue.
+
+![Revenue by Country](Images/revenue_by_country.png)
+
+### Monthly Revenue Trend
+
+Monthly revenue was analyzed to identify changes in sales performance over time.
+
+![Monthly Revenue Trend](Images/monthly_revenue_trend.png)
+
+### Top Products by Revenue
+
+The highest-revenue products were identified to understand which products contribute most to sales.
+
+![Top Products by Revenue](Images/top_products_by_revenue.png)
+
+### Most Returned Products
+
+Return activity was analyzed to identify products associated with the greatest number of returned orders.
+
+![Most Returned Products](Images/most_returned_products.png)
+
+### Repeat vs. One-Time Customers
+
+Customers were classified based on whether they placed more than one order.
+
+![Repeat vs One-Time Customers](Images/repeat_vs_one_time_customers.png)
+
+### Customer Value Scores
+
+Customers were ranked using a value score combining total revenue and purchase frequency.
+
+![Customer Value Scores](Images/customer_value_scores.png)
+
+### Product Value Scores
+
+Products were ranked using revenue, quantity sold, and returns, with returns negatively affecting the final score.
+
+![Product Value Scores](Images/product_value_scores.png)
+
 ## Customer Value Analysis
 
 To identify the most valuable customers, I analyzed both:
